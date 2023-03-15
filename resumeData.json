@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Jingwen Li",
-    "occupation": "Product Manager",
+    "occupation": "Product and Program Manager",
     "description": "This is my personal website. Scroll down or click the banner above to read my bio, check out my projects, or download my resume.",
     "image": "profilepic.jpg",
     "bio": "Whether it is through rehab with patients, or using technology to transform our digital life, I have always been passionate about empowering others to reach their full potential. I had 9+ years of professional experience (with a focus on building customer-centered service products and digital products) in healthcare, tech and business. While working full-time, I also graduated as one of the top students in my MBA program. After discovering my passion for technology over the past a couple of years, I began teaching myself programming languages (Python, SQL, Java, Javascript, HTML, CSS) and eventually completed a rigorous 14-week, 3-stack software development bootcamp with the highest honors in my cohort. Now, I am ready to leverage my diverse skill sets and experiences in healthcare, product management and software development, to build products that can benefit millions of people.",
@@ -56,7 +56,7 @@
         "company": "Open-Source/Personal Projects",
         "title": "Lead Product Manager | Software Engineer",
         "years": "July 2022 - NOW",
-        "description":"1) Open-Source: 'Health Gateway Africa' (A mobile platform that will increase the accessibility of good-quality healthcare in Africa); Collaborate with software engineers, UX/UI designers, target customers, and other stakeholders in the product discovery and development phases; Provide guidance to junior product managers on writing user stories and utilizing Jira as the primary tool. 2) Designed and successfully delivered MVPs of 3 web applications within one-week sprints (Technical: Python, SQL, Flask, Javascript, MongoDB, Express, React, Node, Java, APIs, Spring, GitHub, AWS; Product Management: Agile Methodology, Prioritization, Wireframing, User-feedback Analysis, Trello, Balsamiq, QA); 3) Won 'The Best Project in Cohort' and 'The Best Project Presentation' twice during the coding bootcamp."
+        "description":"1) Open-Source: 'Health Gateway Africa' (A mobile platform that will increase the accessibility of good-quality healthcare in Africa); Collaborate with software engineers, UX/UI designers, target customers, and other stakeholders in the product discovery and development phases; Provide guidance to junior product managers on product ideation, user stories, and software tools (e.g. Jira and Figma). 2) Designed and successfully delivered MVPs of 3 web applications and 1 portfolio website; Technical: Python, SQL, Flask, Javascript, MongoDB, Express, React, Node, Java, APIs, Spring, GitHub, AWS; Product Management: Agile Methodology, Prioritization, Wireframing, User-feedback Analysis, Trello, Balsamiq, QA."
       },
       {
         "company": "Orthopedic & Neurological Rehabilitation",
